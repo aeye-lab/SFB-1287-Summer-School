@@ -9,4 +9,4 @@ https://colab.research.google.com/drive/1g3CLkAvfWXpLfIDKnNCmAJjFPsaxH6cG?usp=sh
 https://colab.research.google.com/drive/1oF7Sql5jrR2QgqNcBBDPO8ilwsV-JAVU?usp=sharing
 
 ## E3: Generate scanpaths using Eyettention 
-https://colab.research.google.com/drive/1UGxD_B1iFA1NuxT9lRqnJqJmVHal-jma?usp=sharing
+https://colab.research.google.com/drive/1e3rMu951es8SuhP-5qrDy1MpmqCM3nMg?usp=sharing
